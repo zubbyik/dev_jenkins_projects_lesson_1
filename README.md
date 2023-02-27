@@ -12,4 +12,4 @@ container 🪣
 > are subject to new available
 > updates!!
 
-- [ ] Checkout Git Repo H^2^O
+- [ ] Checkout Git Repo
