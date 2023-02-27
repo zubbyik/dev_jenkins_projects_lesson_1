@@ -9,8 +9,8 @@ services:
       - "50000:50000"
     volumes:
       - jenkins_home:/var/jenkins_home
-  ssh-agent:
-    image: jenkins/ssh-agent
+  # ssh-agent:
+  #   image: jenkins/ssh-agent
 volumes:
   jenkins_home:
       
