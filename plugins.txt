@@ -1,4 +1,4 @@
-github:1.37.0
-blueocean-dashboard:1.27.2
-docker-build-step:2.9
-docker-compose--build-step:1.0
+https://updates.jenkins.io/download/plugins/github/1.37.0/github.hpi
+https://updates.jenkins.io/latest/blueocean-dashboard.hpi
+https://updates.jenkins.io/latest/docker-build-step.hpi
+https://updates.jenkins.io/latest/docker-compose-build-step.hpi
